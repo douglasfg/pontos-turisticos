@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(90, 163, 114);
+}
+.imagens{
+    padding-bottom: 0%;
+    flex-direction: initial;
+}
+footer{
+    background-color: black;
+}
+h1{
+    color: aquamarine;
+    background-color: black;
+    padding-left: 45%;
+}
+.escrita-rodape{
+    color: aliceblue;
+}
+
+.redirecionamento{
+    background-color: rgb(147, 255, 210);
+    color: azure;
+    width: 25%;
+}

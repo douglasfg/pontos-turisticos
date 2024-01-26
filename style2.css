@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(90, 163, 114);
+}
+.imagens{
+    padding-bottom: 0%;
+    flex-direction: initial;
+}
+footer{
+    background-color: black;
+}
+h1{
+    color: aquamarine;
+    background-color: black;
+    padding-left: 25%;
+}
+.escrita-rodape{
+    color: aliceblue;
+}
+
+.redirecionamento{
+    background-color: rgb(147, 255, 210);
+    color: azure;
+    width: 25%;
+}
+.imagem-paco-frevo{
+    padding-left: 27%;
+}
+.primeiro-ponto{
+    padding-left: 42%;
+    background-color: antiquewhite;
+    
+    flex-direction: initial;
+}
+.primera-escrita{
+    padding-left: 50%;
+}
+.segundo-ponto{
+    background-color:antiquewhite;
+    padding-left: 38%;
+    
+}
+.segunda-imagem{
+    padding-left: 22%;
+}
+.terceiro-ponto{
+    background-color: antiquewhite;
+    padding-left: 38%;
+}
+
+
+
+.imagem-praia{
+    padding-left: 26%;
+}
